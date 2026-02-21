@@ -1,0 +1,2 @@
+package com.narxoz.rpg.builder;
+public class BossBuilder extends EnemyBuilder {}
